@@ -14,9 +14,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ky-dev2&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ky-dev2&theme=tokyonight" alt="streak" height="160"/>
-</p>
-
+  
 ![Visitor Count](https://komarev.com/ghpvc/?username=ky-dev2&color=blue&style=flat-square&label=Profile+Views)
 
 ---
