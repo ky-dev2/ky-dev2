@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kyy</h1>
-<h3 align="center">💻 Web Developer | 🎨 Designer Wannabe | 🚀 Learner</h3>
+<h1 align="center">Hi 👋, I'm Fadhillah Dzaki Nasrullah</h1>
+<h3 align="center">🌱 Pelajar | 💻 Calon Full Stack Dev | 🤖 AI Engineer in Progress | 🎮 Game Developer Wannabe</h3>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Web Development, Cyber Security, and Game Dev**
-- 🔭 Working on: **Timely ⏱️**, **Factasy ✨**
-- 🎯 Goal: Build tools & apps that are simple but powerful
+- 🎓 I’m currently learning **JavaScript, Python, and Java**
+- 🎨 Exploring **editing & design** to make projects more aesthetic
+- 🎯 Goals: Become an **AI Engineer, Full Stack Developer, and Game Developer**
+- ⚡ Fun fact: I love building simple but creative projects ✨
 
 ---
 
@@ -20,15 +21,16 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,react,nodejs,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🎵 Vibes While Coding
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" />
-</p>
+## 📚 Currently Learning
+- Web Development 🌐  
+- AI & Machine Learning 🤖  
+- Game Development 🎮  
+- Video & Content Editing 🎨  
 
 ---
 
@@ -37,9 +39,8 @@
 
 ---
 
-## 🌐 Find me here
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/username"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://instagram.com/kycihuyy1"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/ky-dev2"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
