@@ -21,9 +21,9 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🌎 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,react,nodejs,mysql,git,github,acode,termux" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css" />
 </p>
 
 ---
